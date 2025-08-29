@@ -89,11 +89,11 @@ Creación, puesta en marcha y coordinación de hilos.
 
 **Ejecución en progreso:**
 
-![Ejecución del programa mostrando números primos siendo encontrados](./img/media/final.jpg)
+![Ejecución del programa mostrando números primos siendo encontrados](./img/media/continuacion5segundos.jpg)
 
 **Pausa automática a los 5 segundos:**
 
-![Pausa después de 5 segundos mostrando el progreso](./img/media/canondromopausa.jpg)
+![Pausa después de 5 segundos mostrando el progreso](./img/media/pausa5segundos.jpg)
 
 #### ¿Qué sucede técnicamente?
 
@@ -172,7 +172,7 @@ El simulador de carreras de galgos es una aplicación gráfica donde 17 galgos c
 
 **Funcionalidad de Pausa en Acción:**
 
-![Simulador pausado mostrando galgos en diferentes posiciones](./img/media/pausaSegundos.jpg)
+![Simulador pausado mostrando galgos en diferentes posiciones](./img/media/canondromopausa.jpg)
 
 **Análisis de la imagen:**
 - **Estado**: Carrera pausada mediante el botón "Stop"
@@ -183,7 +183,7 @@ El simulador de carreras de galgos es una aplicación gráfica donde 17 galgos c
 
 **Resultados Finales Corregidos:**
 
-![Resultado final con posiciones únicas y correctas](./img/media/continuacionSegundos.jpg)
+![Resultado final con posiciones únicas y correctas](./img/media/final.jpg)
 
 **Análisis de la imagen:**
 - **Ganador**: Galgo 14 declarado como único ganador (posición 1)

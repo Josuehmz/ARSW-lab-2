@@ -86,14 +86,11 @@ public class Canodromo extends JFrame {
 
 		this.setSize(butWidht * longPista, butHeight * nCarriles + 400);
 
-		// Get the size of the screen
 		Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
-		// Determine the new location of the window
 		int w = this.getSize().width;
 		int h = this.getSize().height;
 		int x = (dim.width - w) / 2;
 		int y = (dim.height - h) / 2;
-		// Move the window
 		this.setLocation(x, y);
 		this.setTitle("Canodromo");
 

@@ -22,6 +22,15 @@ public class RegistroLlegada {
 		this.ultimaPosicionAlcanzada = ultimaPosicionAlcanzada;
 	}
 
-	
+	/**
+	 * Método sincronizado para obtener la posición de llegada de manera atómica
+	 * y actualizar el contador. Evita condiciones de carrera.
+	 * @return la posición de llegada del galgo
+	 */
+	public synchronized int obtenerPosicionLlegada() {
+		int posicion = ultimaPosicionAlcanzada;
+		ultimaPosicionAlcanzada++;
+		return posicion;
+	}
 	
 }

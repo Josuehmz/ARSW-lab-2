@@ -353,4 +353,4 @@ Controles durante la carrera:
 - "Stop" → pausado = true → Todos los galgos entran en wait()
 - "Continue" → pausado = false + notifyAll() → Todos se reanudan
 ```
-Esta implementación demuestra el manejo completo de problemas comunes en programación concurrente y las técnicas estándar para resolverlos de manera elegante y eficiente.
+

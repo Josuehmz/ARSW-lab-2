@@ -3,12 +3,12 @@ Escuela Colombiana de Ingeniería
 Arquitecturas de Software – ARSW
 
 
-##Autor: Josué Hernandez
+## Autor: Josué Hernandez
 
 
-####Programación concurrente
+#### Programación concurrente
 
-####Parte I
+#### Parte I
 
 Creación, puesta en marcha y coordinación de hilos.
 
@@ -89,11 +89,11 @@ Creación, puesta en marcha y coordinación de hilos.
 
 **Ejecución en progreso:**
 
-![Ejecución del programa mostrando números primos siendo encontrados](./img/media/ejecucion_punto3.jpg)
+![Ejecución del programa mostrando números primos siendo encontrados](./img/media/final.jpg)
 
 **Pausa automática a los 5 segundos:**
 
-![Pausa después de 5 segundos mostrando el progreso](./img/media/pausa_punto3.jpg)
+![Pausa después de 5 segundos mostrando el progreso](./img/media/canondromopausa.jpg)
 
 #### ¿Qué sucede técnicamente?
 
